@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "graphmath.h": "c"
+    }
+}

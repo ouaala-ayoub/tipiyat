@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "stdlib.h": "c",
+        "arbre.h": "c",
+        "stdio.h": "c",
+        "limits": "c",
+        "string.h": "c"
+    }
+}

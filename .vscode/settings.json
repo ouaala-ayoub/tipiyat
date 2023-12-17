@@ -1,0 +1,17 @@
+{
+    "[c]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "files.associations": {
+        "stdlib.h": "c",
+        "time.h": "c",
+        "array_utils.h": "c",
+        "stdio.h": "c",
+        "list.h": "c",
+        "personne.h": "c",
+        "string.h": "c",
+        "pile.h": "c"
+    }
+}
